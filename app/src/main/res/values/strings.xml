@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">מיה גור</string>
+
+    <string name="btnDetails">פרטים</string>
+
+    <string name="hours"><u>שעות פעילות:</u>\nראשון - חמישי: 8:00 - 19:00 \nשישי: 10:00 - 13:00</string>
+
+    <string-array name="myAppointmant">
+        <item>בחרי את סוג הטיפול</item>
+        <item>לק גל - ידיים</item>
+        <item>לק גל - רגליים</item>
+        <item>לק גל - ידיים + רגליים</item>
+    </string-array>
+
+</resources>
